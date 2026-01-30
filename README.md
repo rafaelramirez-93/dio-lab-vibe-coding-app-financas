@@ -1,3 +1,6 @@
+Este projeto foi desenvolvido para o Desafio da DIO Vibe Coding usando o Lovable e o CoPilot Web. A proposta é criar um aplicativo de Organização Financeira Pessoal interativo por meio da linguagem natural.
+
+
 # 💸 App de Organização de Finanças Pessoais de Rafael Ramirez com Vibe Coding
 
 ```txt
